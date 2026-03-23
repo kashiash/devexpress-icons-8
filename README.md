@@ -1,4 +1,7 @@
-﻿# DevExpress SVG Icon Catalog
+# DevExpress SVG Icon Catalog
+
+> Ten katalog jest przeznaczony do użytku wewnętrznego.
+> Do korzystania z zasobów DevExpress wymagana jest aktywna licencja DevExpress.
 
 Wygenerowano: 2026-03-23 19:09:21
 
