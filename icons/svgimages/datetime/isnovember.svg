@@ -1,0 +1,12 @@
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 32 32" style="enable-background:new 0 0 32 32;" xml:space="preserve">
+<style type="text/css">
+	.Blue{fill:#1177D7;}
+	.Black{fill:#727272;}
+</style>
+<path class="Black" d="M0,3v24c0,0.6,0.4,1,1,1h28c0.6,0,1-0.4,1-1V3c0-0.6-0.4-1-1-1H1C0.4,2,0,2.4,0,3z M28,26H2V6h26V26z"/>
+<path class="Blue" d="M10.3,20l-2.6-5.9v4.7h0.8V20H5.3v-1.2h0.8V12H5.3v-1.2h2.6l2.5,5.8V12H9.6v-1.2h3.3V12H12v8H10.3z"/>
+<path class="Blue" d="M18.7,17.4c0,0.9-0.1,2.7-2.7,2.7c-2.6,0-2.7-1.8-2.7-2.7v-1.5c0-0.9,0.1-2.7,2.7-2.7c2.6,0,2.7,1.8,2.7,2.7
+	V17.4z M17.1,15.9c0-1.1-0.4-1.4-1.1-1.4c-0.7,0-1.1,0.3-1.1,1.4v1.6c0,1.1,0.4,1.4,1.1,1.4c0.7,0,1.1-0.4,1.1-1.4V15.9z"/>
+<path class="Blue" d="M19.2,14.5v-1.2h2.8v1.2h-0.6l0.8,3.1l0.8-3.1h-0.6v-1.2h2.8v1.2h-0.6L22.9,20h-1.5l-1.6-5.5H19.2z"/>
+</svg>

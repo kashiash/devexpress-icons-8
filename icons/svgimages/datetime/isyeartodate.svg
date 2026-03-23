@@ -1,0 +1,23 @@
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 32 32" style="enable-background:new 0 0 32 32;" xml:space="preserve">
+<style type="text/css">
+	.Black{fill:#727272;}
+	.Blue{fill:#1177D7;}
+	.altRed{fill:#D11C1C;}
+	.altWhite{fill:#FFFFFF;}
+</style>
+<rect x="8" y="12" class="altWhite" width="8" height="8"/>
+<path class="Black" d="M0,3v24c0,0.6,0.4,1,1,1h28c0.6,0,1-0.4,1-1V3c0-0.6-0.4-1-1-1H1C0.4,2,0,2.4,0,3z M28,26H2V6h26V26z"/>
+<rect x="10" y="8" class="Blue" width="4" height="4"/>
+<rect x="16" y="8" class="Blue" width="4" height="4"/>
+<rect x="22" y="8" class="Blue" width="4" height="4"/>
+<rect x="4" y="14" class="Blue" width="4" height="4"/>
+<rect x="10" y="14" class="altRed" width="4" height="4"/>
+<rect x="16" y="14" class="Blue" width="4" height="4"/>
+<rect x="22" y="14" class="Blue" width="4" height="4"/>
+<rect x="4" y="20" class="Blue" width="4" height="4"/>
+<rect x="10" y="20" class="Blue" width="4" height="4"/>
+<rect x="16" y="20" class="Blue" width="4" height="4"/>
+<rect x="22" y="20" class="Blue" width="4" height="4"/>
+<rect x="4" y="8" class="Blue" width="4" height="4"/>
+</svg>
